@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Главная on PetCareCam</title>
+    <link>http://localhost:56508/</link>
+    <description>Recent content in Главная on PetCareCam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jun 2025 14:52:01 +0300</lastBuildDate>
+    <atom:link href="http://localhost:56508/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post3</title>
+      <link>http://localhost:56508/journal/post3/</link>
+      <pubDate>Wed, 04 Jun 2025 14:52:01 +0300</pubDate>
+      <guid>http://localhost:56508/journal/post3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post2</title>
+      <link>http://localhost:56508/journal/post2/</link>
+      <pubDate>Wed, 04 Jun 2025 14:51:57 +0300</pubDate>
+      <guid>http://localhost:56508/journal/post2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post1</title>
+      <link>http://localhost:56508/journal/post1/</link>
+      <pubDate>Wed, 04 Jun 2025 14:51:52 +0300</pubDate>
+      <guid>http://localhost:56508/journal/post1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Participants</title>
+      <link>http://localhost:56508/participants/</link>
+      <pubDate>Wed, 04 Jun 2025 14:51:41 +0300</pubDate>
+      <guid>http://localhost:56508/participants/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Финальная стадия</title>
+      <link>http://localhost:56508/posts/post-1/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56508/posts/post-1/</guid>
+      <description>&lt;h1 id=&#34;последние-этапы-проекта&#34;&gt;Последние этапы проекта&lt;/h1&gt;&#xA;&lt;p&gt;Мы находимся на последних этапах подготовки к защите проекта&lt;/p&gt;&#xA;&lt;h2 id=&#34;что-было-сделано&#34;&gt;Что было сделано&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;сделан прототип сайта&lt;/li&gt;&#xA;&lt;li&gt;подготовлен доработанный дизайн нашей продукции&lt;/li&gt;&#xA;&lt;li&gt;готоп отчет и презентация для защиты проекта&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Наш прогресс</title>
+      <link>http://localhost:56508/posts/post-2/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56508/posts/post-2/</guid>
+      <description>&lt;h1 id=&#34;прогресс-проекта&#34;&gt;Прогресс проекта&lt;/h1&gt;&#xA;&lt;p&gt;Мы рады сообщить о значительном прогрессе в проекте PetCareCam!&lt;/p&gt;&#xA;&lt;h2 id=&#34;достижения&#34;&gt;Достижения&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;сделан прототип сайта&lt;/li&gt;&#xA;&lt;li&gt;идет подготовка преезентации для защиты&lt;/li&gt;&#xA;&lt;li&gt;проведен опрос аудитории&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;встреча-с-партнером&#34;&gt;Встреча с партнером&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;обсудили будущее проекта&lt;/li&gt;&#xA;&lt;li&gt;придумали новые задачи&lt;/li&gt;&#xA;&lt;li&gt;обсудили нюансы защиты проекта&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Запуск проекта PetCareCam</title>
+      <link>http://localhost:56508/posts/post-3/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56508/posts/post-3/</guid>
+      <description>&lt;h1 id=&#34;запуск-проекта-petcarecam&#34;&gt;Запуск проекта PetCareCam&lt;/h1&gt;&#xA;&lt;p&gt;Мы рады объявить о начале разработки проекта PetCareCam! В этом посте мы расскажем о первых шагах нашей команды и планах на ближайшее будущее.&lt;/p&gt;&#xA;&lt;h2 id=&#34;что-уже-сделано&#34;&gt;Что уже сделано&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Сформирована команда&lt;/li&gt;&#xA;&lt;li&gt;Определены основные требования к продукту&lt;/li&gt;&#xA;&lt;li&gt;Создан первый прототип интерфейса&lt;/li&gt;&#xA;&lt;li&gt;София Полысаева разработала логотип и дизайн камер для представления компании-партнеру&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>О проекте</title>
+      <link>http://localhost:56508/about/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56508/about/</guid>
+      <description>&lt;h1 id=&#34;о-проекте-petcarecam&#34;&gt;О проекте PetCareCam&lt;/h1&gt;&#xA;&lt;h2 id=&#34;описание-проекта&#34;&gt;Описание проекта&lt;/h2&gt;&#xA;&lt;p&gt;PetCareCam - это инновационный проект, направленный на разработку системы видеонаблюдения за домашними животными. Наша цель - создать удобное и надежное решение, которое поможет владельцам домашних животных обеспечить безопасность и комфорт своих питомцев.&lt;/p&gt;&#xA;&lt;h2 id=&#34;технические-особенности&#34;&gt;Технические особенности&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Высококачественная видеокамера с ночным видением&lt;/li&gt;&#xA;&lt;li&gt;Облачное хранение записей&lt;/li&gt;&#xA;&lt;li&gt;Искусственный интеллект для распознавания активности животных&lt;/li&gt;&#xA;&lt;li&gt;Мобильное приложение с push-уведомлениями&lt;/li&gt;&#xA;&lt;li&gt;Защищенное соединение и шифрование данных&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;этапы-разработки&#34;&gt;Этапы разработки&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Проектирование и разработка прототипа&lt;/li&gt;&#xA;&lt;li&gt;Тестирование и отладка&lt;/li&gt;&#xA;&lt;li&gt;Создание мобильного приложения&lt;/li&gt;&#xA;&lt;li&gt;Интеграция с облачными сервисами&lt;/li&gt;&#xA;&lt;li&gt;Бета-тестирование&lt;/li&gt;&#xA;&lt;li&gt;Запуск продукта&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;наши-партнеры&#34;&gt;Наши партнеры&lt;/h2&gt;&#xA;&lt;p&gt;Мы сотрудничаем с ведущими компаниями в области IoT и разработки программного обеспечения для создания лучшего продукта для наших пользователей.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ресурсы</title>
+      <link>http://localhost:56508/resources/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56508/resources/</guid>
+      <description>&lt;h1 id=&#34;полезные-ресурсы&#34;&gt;Полезные ресурсы&lt;/h1&gt;&#xA;&lt;h2 id=&#34;партнеры-проекта&#34;&gt;Партнеры проекта&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com&#34;&gt;Название организации-партнера&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Описание сотрудничества и совместных проектов&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;техническая-документация&#34;&gt;Техническая документация&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://api-docs.example.com&#34;&gt;Документация по API&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://install-guide.example.com&#34;&gt;Руководство по установке&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://user-guide.example.com&#34;&gt;Руководство пользователя&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;полезные-статьи&#34;&gt;Полезные статьи&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com/articles/camera-selection&#34;&gt;Как выбрать камеру для домашнего питомца&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com/articles/pet-safety&#34;&gt;Безопасность домашних животных&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com/articles/pet-care&#34;&gt;Советы по уходу за питомцами&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Участники</title>
+      <link>http://localhost:56508/team/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56508/team/</guid>
+      <description>&lt;h1 id=&#34;наша-команда&#34;&gt;Наша команда&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Савельева Елизавета&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Лидер, представляет продукт на защите, отвечает за ход выполнения проекта.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Линейцев Роман&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Разработчик, разработал сайт продукта.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Лесников Николай&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Разработчик, помогал с созданием сайта, собирал данные.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Софронова Алиса&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Аналитик, принимает решения, помогает другим участникам группы.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Полысаев Софья&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Дизайнер, разработала визуализацию продукта и логотип.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ефремов Герман&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Исследователь, сбор данных и их визуализация.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

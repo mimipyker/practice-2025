@@ -1,0 +1,35 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  {{ with site.GetPage "/about" }}
+    <div class="card" style="margin-top: 2em;">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{ with site.GetPage "/team" }}
+    <div class="card" style="margin-top: 2em;">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{ with site.GetPage "/resources" }}
+    <div class="card" style="margin-top: 2em;">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  <div style="margin-top: 2em;"></div>
+  <div>
+    {{ range (site.GetPage "section" "posts").Pages.ByDate }}
+      <div class="card">
+        <h2 style="margin-top:0;"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <div style="color:#888; font-size:0.95em; margin-bottom:0.5em;">{{ .Date.Format "02.01.2006" }}</div>
+        <div>{{ .Summary }}</div>
+      </div>
+    {{ end }}
+  </div>
+{{ end }} 

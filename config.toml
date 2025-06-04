@@ -1,0 +1,49 @@
+baseURL = "/"
+languageCode = "ru-ru"
+title = "PetCareCam"
+theme = "petcarecam-theme"
+
+[params]
+  description = "Проект по разработке системы видеонаблюдения за домашними животными"
+  author = "Команда PetCareCam"
+  mainSections = ["posts"]
+  showShareButtons = true
+  showReadingTime = true
+  showFullTextinRSS = true
+  showComments = false
+  showSocial = true
+  showDateUpdated = true
+  showSummary = true
+  showWordCount = true
+  showFullContentinRSS = true
+  showShareButtons = true
+  showReadingTime = true
+  showFullTextinRSS = true
+  showComments = false
+  showSocial = true
+  showDateUpdated = true
+  showSummary = true
+  showWordCount = true
+  showFullContentinRSS = true
+
+[menu]
+  [[menu.main]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "О проекте"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Участники"
+    url = "/team/"
+    weight = 3
+  [[menu.main]]
+    name = "Журнал"
+    url = "/posts/"
+    weight = 4
+  [[menu.main]]
+    name = "Ресурсы"
+    url = "/resources/"
+    weight = 5

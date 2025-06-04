@@ -1,0 +1,8 @@
+<nav class="navbar">
+  <a href="/" class="navbar-title">{{ site.Title }}</a>
+  <div class="navbar-menu">
+    {{ range site.Menus.main }}
+      <a href="{{ .URL }}"{{ if or ($.IsMenuCurrent .Menu .) ($.HasMenuCurrent .Menu .) }} class="active"{{ end }}>{{ .Name }}</a>
+    {{ end }}
+  </div>
+</nav> 

@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <div class="card">
+    <h1 style="margin-top:0;">{{ .Title }}</h1>
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format ":date_long" }}
+    <time datetime="{{ $dateMachine }}" style="color:#888; font-size:0.95em;">{{ $dateHuman }}</time>
+    <div style="margin-top:1.5em;">
+      {{ .Content }}
+      {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+    </div>
+  </div>
+{{ end }} 
