@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on PetCareCam</title>
-    <link>http://localhost:56508/posts/</link>
-    <description>Recent content in Posts on PetCareCam</description>
+    <title>Posts on </title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:56508/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Финальная стадия</title>
-      <link>http://localhost:56508/posts/post-1/</link>
+      <link>//localhost:1313/posts/post-1/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56508/posts/post-1/</guid>
+      <guid>//localhost:1313/posts/post-1/</guid>
       <description>&lt;h1 id=&#34;последние-этапы-проекта&#34;&gt;Последние этапы проекта&lt;/h1&gt;&#xA;&lt;p&gt;Мы находимся на последних этапах подготовки к защите проекта&lt;/p&gt;&#xA;&lt;h2 id=&#34;что-было-сделано&#34;&gt;Что было сделано&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;сделан прототип сайта&lt;/li&gt;&#xA;&lt;li&gt;подготовлен доработанный дизайн нашей продукции&lt;/li&gt;&#xA;&lt;li&gt;готоп отчет и презентация для защиты проекта&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Наш прогресс</title>
-      <link>http://localhost:56508/posts/post-2/</link>
+      <link>//localhost:1313/posts/post-2/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56508/posts/post-2/</guid>
+      <guid>//localhost:1313/posts/post-2/</guid>
       <description>&lt;h1 id=&#34;прогресс-проекта&#34;&gt;Прогресс проекта&lt;/h1&gt;&#xA;&lt;p&gt;Мы рады сообщить о значительном прогрессе в проекте PetCareCam!&lt;/p&gt;&#xA;&lt;h2 id=&#34;достижения&#34;&gt;Достижения&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;сделан прототип сайта&lt;/li&gt;&#xA;&lt;li&gt;идет подготовка преезентации для защиты&lt;/li&gt;&#xA;&lt;li&gt;проведен опрос аудитории&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;встреча-с-партнером&#34;&gt;Встреча с партнером&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;обсудили будущее проекта&lt;/li&gt;&#xA;&lt;li&gt;придумали новые задачи&lt;/li&gt;&#xA;&lt;li&gt;обсудили нюансы защиты проекта&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Запуск проекта PetCareCam</title>
-      <link>http://localhost:56508/posts/post-3/</link>
+      <link>//localhost:1313/posts/post-3/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56508/posts/post-3/</guid>
+      <guid>//localhost:1313/posts/post-3/</guid>
       <description>&lt;h1 id=&#34;запуск-проекта-petcarecam&#34;&gt;Запуск проекта PetCareCam&lt;/h1&gt;&#xA;&lt;p&gt;Мы рады объявить о начале разработки проекта PetCareCam! В этом посте мы расскажем о первых шагах нашей команды и планах на ближайшее будущее.&lt;/p&gt;&#xA;&lt;h2 id=&#34;что-уже-сделано&#34;&gt;Что уже сделано&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Сформирована команда&lt;/li&gt;&#xA;&lt;li&gt;Определены основные требования к продукту&lt;/li&gt;&#xA;&lt;li&gt;Создан первый прототип интерфейса&lt;/li&gt;&#xA;&lt;li&gt;София Полысаева разработала логотип и дизайн камер для представления компании-партнеру&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

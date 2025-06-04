@@ -1,9 +1,0 @@
-{{- $taxonomy := .taxonomy }}
-{{- $page := .page }}
-{{- with $page.GetTerms $taxonomy }}
-  <ul class="terms">
-    {{- range . }}
-      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-    {{- end }}
-  </ul>
-{{- end }} 
