@@ -1,63 +1,159 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="ru">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<title>Ресурсы | </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ресурсы - PetCareCam</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;  
+            color: #333;  
+        }
 
-    <link rel="stylesheet" href="/css/main.css"> 
-  
+        .container {
+            max-width: 960px;
+            margin: 0 auto;  
+            padding: 0 20px;
+        }
+
+        header {
+            background-color: #1e90ff;  
+            color: white;  
+            padding: 10px 0;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        header .container {
+            display: flex;
+            justify-content: space-between;  
+            align-items: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 1.8em;
+            color: white;  
+        }
+
+        nav a {
+            color: white;  
+            margin-left: 15px;
+            text-decoration: none;  
+            font-size: 1.1em;
+            background-color: transparent;  
+            border: none;  
+            padding: 0;  
+        }
+
+        nav a:hover {
+            text-decoration: underline;  
+        }
+
+        .main-content {
+            background-color: #fff;  
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+            border-radius: 8px;
+            padding: 20px;
+        }
+
+        .main-content h1,
+        .main-content h2,
+        .main-content h3,
+        .main-content h4,
+        .main-content h5,
+        .main-content h6 {
+            color: #1e90ff;  
+        }
+
+         
+        .content-block {
+            border: 1px solid #ddd;  
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            background-color: #fff;  
+        }
+
+        .content-block:hover {
+            transform: translateY(-5px);  
+            box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);  
+        }
+
+        .content-block a {
+            text-decoration: none;
+            color: inherit;  
+            display: block;  
+        }
+
+        .content-block a:hover h2,
+        .content-block a:hover h3 {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 20px;
+            color: #777;  
+            font-size: 0.9em;
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <nav class="navbar">
-  <a href="/" class="navbar-title"></a>
-  <div class="navbar-menu">
+    <header>
+        <div class="container">
+            <h1>PetCareCam</h1>
+            <nav>
+                <a href="/">Главная</a>
+                <a href="/about/">О проекте</a>
+                <a href="/team/">Участники</a>
+                <a href="/journal/">Журнал</a>
+                <a href="/resources/">Ресурсы</a>
+            </nav>
+        </div>
+    </header>
     
-  </div>
-</nav> 
-  </header>
-  <div class="container">
-    <main>
-      
-  <div class="card">
-    <h1 style="margin-top:0;">Ресурсы</h1>
-    
-    
-    <time datetime="2024-03-20T00:00:00&#43;00:00" style="color:#888; font-size:0.95em;">March 20, 2024</time>
-    <div style="margin-top:1.5em;">
-      <h1 id="полезные-ресурсы">Полезные ресурсы</h1>
-<h2 id="партнеры-проекта">Партнеры проекта</h2>
+    <main class="container main-content">
+        
+    <h1>Ресурсы</h1>
+    <h2 id="ресурсы">Ресурсы</h2>
+<h3 id="полезные-ресурсы">Полезные ресурсы</h3>
 <ul>
-<li><a href="https://example.com">Название организации-партнера</a>
+<li><strong>Партнеры проекта</strong>
 <ul>
+<li>Название организации-партнера</li>
 <li>Описание сотрудничества и совместных проектов</li>
 </ul>
 </li>
-</ul>
-<h2 id="техническая-документация">Техническая документация</h2>
+<li><strong>Техническая документация</strong>
 <ul>
-<li><a href="https://api-docs.example.com">Документация по API</a></li>
-<li><a href="https://install-guide.example.com">Руководство по установке</a></li>
-<li><a href="https://user-guide.example.com">Руководство пользователя</a></li>
+<li>Документация по API</li>
+<li>Руководство по установке</li>
+<li>Руководство пользователя</li>
 </ul>
-<h2 id="полезные-статьи">Полезные статьи</h2>
+</li>
+<li><strong>Полезные статьи</strong>
 <ul>
-<li><a href="https://example.com/articles/camera-selection">Как выбрать камеру для домашнего питомца</a></li>
-<li><a href="https://example.com/articles/pet-safety">Безопасность домашних животных</a></li>
-<li><a href="https://example.com/articles/pet-care">Советы по уходу за питомцами</a></li>
+<li>Как выбрать камеру для домашнего питомца</li>
+<li>Безопасность домашних животных</li>
+<li>Советы по уходу за питомцами</li>
+</ul>
+</li>
 </ul>
 
-       
-    </div>
-  </div>
 
     </main>
-  </div>
-  <footer>
+
     <footer>
-  <p>&copy; 2025 </p>
-</footer> 
-  </footer>
+        <div class="container">
+            &copy; 2025 PetCareCam. Все права защищены.
+        </div>
+    </footer>
 </body>
 </html> 

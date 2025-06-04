@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journals on </title>
+    <link>//localhost:1313/journal/</link>
+    <description>Recent content in Journals on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Финальная стадия</title>
+      <link>//localhost:1313/journal/finalnaya-stadiya/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journal/finalnaya-stadiya/</guid>
+      <description>&lt;p&gt;Мы находимся на последних этапах подготовки к защите проекта&lt;/p&gt;&#xA;&lt;p&gt;Что было сделано&#xA;сделан прототип сайта&#xA;подготовлен доработанный дизайн нашей продукции&#xA;готоп отчет и презентация для защиты проекта&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Прогресс проекта</title>
+      <link>//localhost:1313/journal/progress-proekta/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journal/progress-proekta/</guid>
+      <description>&lt;p&gt;Мы рады сообщить о значительном прогрессе в проекте PetCareCam!&lt;/p&gt;&#xA;&lt;p&gt;Достижения&#xA;сделан прототип сайта&#xA;идет подготовка преезентации для защиты&#xA;проведен опрос аудитории&lt;/p&gt;&#xA;&lt;p&gt;Встреча с партнером&#xA;обсудили будущее проекта&#xA;придумали новые задачи&#xA;обсудили нюансы защиты проекта&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Запуск проекта PetCareCam</title>
+      <link>//localhost:1313/journal/zapusk-proekta/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journal/zapusk-proekta/</guid>
+      <description>&lt;p&gt;Мы рады объявить о начале разработки проекта PetCareCam! В этом посте мы расскажем о первых шагах нашей команды и планах на ближайшее будущее.&lt;/p&gt;&#xA;&lt;p&gt;Что уже сделано&#xA;Сформирована команда&#xA;Определены основные требования к продукту&#xA;Создан первый прототип интерфейса&#xA;София Полысаева разработала логотип и дизайн камер для представления компании-партнеру&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
